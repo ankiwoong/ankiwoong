@@ -1,9 +1,9 @@
 <img src="https://github.com/ankiwoong/ankiwoong/blob/master/header.png?raw=true" alt="hader img">
-Hi.&#128080; 
-I am currently studying web development.&#128118;
-My preferred language is Python, and I am mostly studying Django.&#128296;
-Hope a lot of attention.
-Thank you.
+Hi.&#128080;<br>
+I am currently studying web development.&#128118;<br>
+My preferred language is Python, and I am mostly studying Django.&#128296;<br>
+Hope a lot of attention.<br>
+Thank you.<br>
 
 ## My Badge
 <div align=center>
